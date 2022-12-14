@@ -1,0 +1,5 @@
+materi mata kuliah introduce information Technology
+1. Pengenalan Mata Kuliah
+2. Komponen komputer
+3. Sistem Bilangan
+4. Konversi Bilangan
