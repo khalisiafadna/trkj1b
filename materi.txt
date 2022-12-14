@@ -3,3 +3,6 @@ materi mata kuliah introduce information Technology
 2. Komponen komputer
 3. Sistem Bilangan
 4. Konversi Bilangan
+5. setting halaman
+6. daftar isi
+7. main marge
